@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Создаем нового пользователя","1634","Создание пользователя","tests","Fri Aug 22 18:10:05 MSK 2025","passed","Fri Aug 22 18:10:06 MSK 2025","TestUserSignUp","test_user_sign_up","",""
+"Логин существующего пользователя","0","Логин пользователя","tests","Fri Aug 22 18:10:00 MSK 2025","passed","Fri Aug 22 18:10:00 MSK 2025","TestUserLogin","test_user_login","",""
+"Создаем рецепт","6508","Создание рецепта","tests","Fri Aug 22 18:09:48 MSK 2025","passed","Fri Aug 22 18:09:55 MSK 2025","TestRecipeCreate","test_recipe_create","",""
