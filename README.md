@@ -16,4 +16,4 @@
   * `docker compose up` запустит тесты внутри собранного контейнера
 
 ### Реализация CI/CD:
-  * `push` в бранч `develop` запустит GitHub Actions пайплайн
+  * `push` в `develop` запустит GitHub Actions пайплайн
